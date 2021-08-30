@@ -1,0 +1,1 @@
+This repository provides codes, data, and step-by-step manuals for a project completed in Remote Sensing Lab at Saint Louis University. In this project, we utizlie deep learning to investigate forest conversation and deforestation in Madagascar. The work is first demonstration of using satellite imagery as the direct input for forest mapping within a deep learning frmework. 
