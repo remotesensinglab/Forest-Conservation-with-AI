@@ -1,4 +1,4 @@
-The data is shared at [a link](https://drive.google.com/drive/folders/1Gqq4j6pRd3A3814szqpI2DT_Ba595PNI?usp=sharing), available right now only to SLU gmail accounts. 
+The data is shared at [via Google Drive](https://drive.google.com/drive/folders/1Gqq4j6pRd3A3814szqpI2DT_Ba595PNI?usp=sharing), available right now only to SLU gmail accounts. 
 Please contact remote sensing lab regarding access to data. 
 
 Accessing 'shared with you' contents
